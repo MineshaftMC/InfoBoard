@@ -1,0 +1,2 @@
+# InfoBoard
+Plugin for InfoBoard
